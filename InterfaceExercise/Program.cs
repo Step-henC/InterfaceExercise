@@ -62,7 +62,7 @@ namespace InterfaceExercise
 
 
             };
-            ICompany Dellis = new ICompany();
+            ICompany Dellis = new Company();
 
             Dellis.Name = "Dellis";
             Dellis.TagLine = "Now that's the stuff";
